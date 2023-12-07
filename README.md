@@ -23,6 +23,10 @@ I frequently speak at conferences worldwide, sharing both technical and non-tech
 My technical expertise includes proficiency in:
 
 - .NET
+- Oracle Simphony
+- Simphony Extension Application Development
+- Simphony Transaction Services API
+- OHIP - Oracle Hospitality Integration Platform
 - MSSQL
 - Oracle Database
 - Azure Cloud
