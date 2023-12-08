@@ -1,4 +1,4 @@
-# Gohulan Somanathan
+# GOHULAN SOMANATHAN
 
 👋 Hi there! I'm Gohulan Somanathan, a highly skilled information technology professional with a Bachelor of Information Technology from the University of Colombo School of Computing. Currently, I serve as the Senior Application Consultant for Oracle F&B products at Hospitality Technology, operating as a billable contractor for Oracle.
 
